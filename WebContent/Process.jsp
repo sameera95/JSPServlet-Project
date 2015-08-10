@@ -13,8 +13,7 @@
 </jsp:useBean>
 
 Hello.. 
-
-Your Id is:
+Your UserId is:
 <jsp:getProperty property="userId" name="user"/><br>
 Your Name is:
 <jsp:getProperty property="userName" name="user"/><br>
